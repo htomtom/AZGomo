@@ -1,5 +1,6 @@
 # AzGomo
-Reference to: [Lczero](https://github.com/YuanshengZhao/AlphaZero_Gomoku).
+Reference to: [AzGomoku](https://github.com/YuanshengZhao/AlphaZero_Gomoku).
+
 Alpha (Go) (Zero) algorithm on Gomoku (Five In A Row) game. The code is largely based on the pseudo-code provided by Alpha Zero paper.
 [Alpha Go Zero paper](https://www.nature.com/articles/nature24270?sf123103138=1)  
 [Alpha Zero paper](https://science.sciencemag.org/content/362/6419/1140)
